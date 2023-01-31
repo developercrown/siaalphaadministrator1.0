@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c16c2d5.css",
+    "main.js": "/static/js/main.e5fcb033.js",
+    "static/js/787.c6fb067a.chunk.js": "/static/js/787.c6fb067a.chunk.js",
+    "static/media/optimized-login-bg-image.jpg": "/static/media/optimized-login-bg-image.8d793f31c6a8607f09d5.jpg",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.fc10ccf11a61bac919b9.ttf",
+    "static/media/OpenSans-Light.ttf": "/static/media/OpenSans-Light.ec993defe70da9dbbc3f.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/static/media/OpenSans-SemiBold.d31d0aaa8d4384de5eeb.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.9ccd5e1b1dbea150336d.ttf",
+    "static/media/photo-missing-min.jpeg": "/static/media/photo-missing-min.91e727aee326c4514f73.jpeg",
+    "static/media/logo.svg": "/static/media/logo.f32518c6b83a8fc44e5c27170a5b58d2.svg",
+    "index.html": "/index.html",
+    "main.1c16c2d5.css.map": "/static/css/main.1c16c2d5.css.map",
+    "main.e5fcb033.js.map": "/static/js/main.e5fcb033.js.map",
+    "787.c6fb067a.chunk.js.map": "/static/js/787.c6fb067a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c16c2d5.css",
+    "static/js/main.e5fcb033.js"
+  ]
+}
